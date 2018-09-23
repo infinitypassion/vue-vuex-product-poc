@@ -25,7 +25,7 @@
     * Links with automatic active CSS classes
     * HTML5 history mode or hash mode, with auto-fallback in IE9
     * Customizable Scroll Behavior
-* [vues](https://www.npmjs.com/package/vuex)
+* [vuex](https://www.npmjs.com/package/vuex)
   * Centralized shared State Management for Vue.js
     * Vue Component -> DISPATCH -> Actions -> COMMIT -> Mutations -> MUTATE -> State -> RENDER -> Vue Component
     * At the center of every Vuex application is the store. A "store" is basically a container that holds your application state.
