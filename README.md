@@ -1,8 +1,14 @@
+## About POC
+* Signup
+* Login
+* My Profile
+* Products
 ## Technologies
 * Vue (2.*)
 * Vuex (3.*)
 * Node JS (8.12.0)
 * NPM (6.4.1)
+* Webpack
 ## Style Guide
 * [Vue Style Guide](https://vuejs.org/v2/style-guide/)
   * Essentials
@@ -33,3 +39,6 @@
 ## Commands
 * npm install
 * npm start
+
+## Url
+* http://localhost:8080
