@@ -22,15 +22,7 @@
 * [vee-validate](https://www.npmjs.com/package/vee-validate)
   * validate input fields and display errors
 * [vue-router](https://www.npmjs.com/package/vue-router)
-  * It deeply integrates with Vue.js core to make building Single Page Applications with Vue.js a breeze. Features include:
-    * Nested route/view mapping
-    * Modular, component-based router configuration
-    * Route params, query, wildcards
-    * View transition effects powered by Vue.js' transition system
-    * Fine-grained navigation control
-    * Links with automatic active CSS classes
-    * HTML5 history mode or hash mode, with auto-fallback in IE9
-    * Customizable Scroll Behavior
+  * It deeply integrates with Vue.js core to make building Single Page Applications with Vue.js a breeze.
 * [vuex](https://www.npmjs.com/package/vuex)
   * Centralized shared State Management for Vue.js
     * Vue Component -> DISPATCH -> Actions -> COMMIT -> Mutations -> MUTATE -> State -> RENDER -> Vue Component
