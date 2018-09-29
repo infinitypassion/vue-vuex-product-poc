@@ -8,7 +8,7 @@ function initProducts() {
     let p1 = {
       id: id,
       name: 'Prodcut - ' + id,
-      photo: '../assets/images/' + id + '.jpg',
+      photo: '../assets/images/' + id + '.jpeg',
       inStock: i % 2 == 0 ? true : false,
       basePrice: 100.00,
       currance: '$'
